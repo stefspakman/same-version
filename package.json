@@ -1,0 +1,19 @@
+{
+  "name": "same-version",
+  "version": "0.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "NPM"
+  ],
+  "author": "Stef Spakman <mail@stefspakman.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "fancy-log": "^1.3.2"
+  }
+}
